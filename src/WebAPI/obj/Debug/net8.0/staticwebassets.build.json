@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "6EpL91I86hveC7O2YnBZiWQZICBiLE4sAZ4Bh+8qH4A=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\aspnetcore-webapi-template-sample\\src\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

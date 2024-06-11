@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:WebAPI.Exceptions.BusinessException">
+            <summary>
+            业务异常
+            </summary>
+        </member>
+        <member name="T:WebAPI.Migrations.CreateDBv10">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPI.Migrations.CreateDBv10.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPI.Migrations.CreateDBv10.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPI.Migrations.CreateDBv10.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
